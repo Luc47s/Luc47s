@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lucas 
-- - 🌱 I’m currently learning Flutter framework
-- 👀 I’m interested in collaborate in flutter open source projects
+-  Hi, I’m Lucas 
+-  I’m currently learning Flutter framework
+-  I’m interested in collaborate in flutter open source projects 
 
 
 
