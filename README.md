@@ -1,6 +1,12 @@
--  Hi, I’m Lucas 
--  I’m currently learning Flutter framework
--  I’m interested in collaborate in flutter open source projects 
+Ayudo a negocios a mejorar su atención al cliente mediante chatbots inteligentes que:
+
+🤖 Responden consultas 24/7 
+📅 Agendan citas y reservas automáticamente 
+💬 Resuelven preguntas frecuentes sobre horarios, precios y stock 
+
+Mi objetivo es que los clientes reciban respuestas rápidas y claras, mientras los negocios ahorran tiempo y recursos. 
+
+Trabajo con WhatsApp, Instagram, Telegram, Web y Facebook Messenger, ofreciendo soluciones fáciles de implementar y completamente personalizadas para cada negocio. 
 
 
 
