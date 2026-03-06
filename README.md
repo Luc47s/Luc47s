@@ -1,12 +1,12 @@
 # Hola 👋
 
-Estoy construyendo productos SaaS enfocados en automatizar negocios.
+Construyendo herramientas SaaS que ayudan a negocios a automatizar reservas y atención al cliente.
 
 Actualmente estoy desarrollando un sistema de reservas online para salones de belleza que permite a las clientas reservar turnos sin tener que escribir por WhatsApp.
 
 ## 🚀 Proyecto actual
 
-Sistema de reservas para salones de belleza.
+Sistema SaaS que permite a los salones dejar de agendar turnos por WhatsApp y gestionar reservas online mediante un link.
 
 Permite:
 
@@ -34,7 +34,7 @@ Construir herramientas simples que ayuden a negocios a automatizar tareas repeti
 
 ## 🌐 Demo del sistema
 
-app.agenda-beauty.com
+[Probar demo del sistema](https://app.agenda-beauty.com)
 
 ## 📫 Contacto
 
